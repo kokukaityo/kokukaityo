@@ -55,6 +55,12 @@ dotfiles・エディタ設定・AIエージェント設定を1箇所に集約し
 
 ---
 
+### 📫 Contact
+
+[![Email](https://img.shields.io/badge/-kokukaityo.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kokukaityo.dev@gmail.com)
+
+---
+
 ### ☕ Support
 
 <a href="https://www.buymeacoffee.com/kokukaityo"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
