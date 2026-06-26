@@ -1,40 +1,33 @@
-# kokukaityo
+## Hi there 👋
 
-Backend engineer / IT consultant.
-Python, Django, FastAPI を中心に、API設計・バックエンド開発・リプレイス案件・要件定義から運用保守までを扱っています。
+**Backend Engineer / IT Consultant**
 
-最近から個人開発として、開発環境・dotfiles・AIエージェント設定の整理に取り組んでいます。
-Go / CLI / OSS は `dotfiles-bridge` を作りながら開拓中です。
+Python・Django・FastAPI を軸に、API設計からバックエンド開発・リプレイス・要件定義・運用保守まで一貫して担当しています。
 
-## Main project
+個人開発では、開発環境・dotfiles・AIエージェント設定の整備に注力中。Go / CLI / OSS は `dotfiles-bridge` を起点に開拓しています。
 
-* [dotfiles-bridge](https://github.com/kokukaityo/dotfiles-bridge)  
-  dotfiles・エディタ設定・AIエージェント設定を1箇所に集約し、symlink と Git で橋渡しする local-first CLI tool.
+---
 
-## Skillset
+### 🔧 Tech Stack
 
-* Backend: Python, Django, FastAPI
-* Database: PostgreSQL, MySQL, DynamoDB
-* Infrastructure: AWS, Docker
-* Testing: pytest
-* CI/CD: GitHub Actions
-* Development tools: VS Code, Cursor, Claude Code, Git
-* Experience: API design, replacement projects, requirements definition, system design, implementation, testing, operation, maintenance
-* Collaboration: code review, team lead, mentoring, stakeholder communication
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | Python, Django, FastAPI |
+| **Database** | PostgreSQL, MySQL, DynamoDB |
+| **Infrastructure** | AWS, Docker |
+| **CI/CD** | GitHub Actions |
+| **Tools** | VS Code, Cursor, Claude Code, Git |
 
-## Interests
+### 🚀 Main Project
 
-* 開発環境の再現性
-* dotfiles / config management
-* AI-assisted development
-* AIエージェント設定
-* CLI tools
-* ナレッジ管理
-* 自作キーボード
+**[dotfiles-bridge](https://github.com/kokukaityo/dotfiles-bridge)** — dotfiles・エディタ設定・AIエージェント設定を1箇所に集約し、symlink と Git で橋渡しする local-first CLI tool（Go製）
 
-☕ Support
+### 💡 Interests
 
-`dotfiles-bridge` は初めて公開したOSSです。
-役に立った、参考になった、今後も見てみたいと思ったら、Star や Issue、Buy Me a Coffee で応援してもらえると嬉しいです。
+`開発環境の再現性` `dotfiles / config management` `AI-assisted development` `CLI tools` `ナレッジ管理` `自作キーボード`
 
-支援は、開発継続・検証環境・ドキュメント整備・仕事後のOSS開発の燃料になります。
+---
+
+<a href="https://www.buymeacoffee.com/kokukaityo"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+
+`dotfiles-bridge` は初の公開OSSです。Star・Issue・コーヒーで応援してもらえると、開発継続の燃料になります。
