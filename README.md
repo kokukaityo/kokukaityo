@@ -1,17 +1,42 @@
 # kokukaityo
 
-個人開発、はじめました。今めっちゃ楽しい。  
-Go を書きながらなんとかやっています。
+Backend engineer / IT consultant.
+Python, Django, FastAPI を中心に、API設計・バックエンド開発・リプレイス案件・要件定義から運用保守までを扱っています。
 
-## 📦 Repositories
+最近から個人開発として、開発環境・dotfiles・AIエージェント設定の整理に取り組んでいます。
+Go / CLI / OSS は `dotfiles-bridge` を作りながら開拓中です。
 
-- **[dotfile](https://github.com/kokukaityo/dotfile)** — 設定の正本リポジトリ
+## Main project
 
-## 🚧 Next
+* [dotfiles-bridge](https://github.com/kokukaityo/dotfiles-bridge)
+  dotfiles・エディタ設定・AIエージェント設定を1箇所に集約し、symlink と Git で橋渡しする local-first CLI tool.
 
-- 生成AIとのセッションからナレッジを集約して Git → OneDrive で同期するツール
-- Codex のコンテキスト添付をコンテキストメニューから操作できる VSCode 拡張
+## Skillset
+
+* Backend: Python, Django, FastAPI
+* Database: PostgreSQL, MySQL, DynamoDB
+* Infrastructure: AWS, Docker
+* Testing: pytest
+* CI/CD: GitHub Actions
+* Development tools: VS Code, Cursor, Claude Code, Git
+* Experience: API design, replacement projects, requirements definition, system design, implementation, testing, operation, maintenance
+* Collaboration: code review, team lead, mentoring, stakeholder communication
+
+## Interests
+
+* Developer productivity
+* dotfiles / config management
+* AI-assisted development
+* AI agent workflow
+* CLI tools
+* Knowledge management
+* Custom keyboards
+
+## Next
+
+* 
 
 ## ☕ Buy me a coffee
 
-dotfiles が役に立ったら嬉しいです。
+If `dotfiles-bridge` or my notes helped you, a coffee would be appreciated.
+It helps me keep building OSS tools after work.
