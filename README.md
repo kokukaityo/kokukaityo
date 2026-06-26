@@ -8,7 +8,7 @@ Go / CLI / OSS は `dotfiles-bridge` を作りながら開拓中です。
 
 ## Main project
 
-* [dotfiles-bridge](https://github.com/kokukaityo/dotfiles-bridge)
+* [dotfiles-bridge](https://github.com/kokukaityo/dotfiles-bridge)  
   dotfiles・エディタ設定・AIエージェント設定を1箇所に集約し、symlink と Git で橋渡しする local-first CLI tool.
 
 ## Skillset
@@ -24,19 +24,17 @@ Go / CLI / OSS は `dotfiles-bridge` を作りながら開拓中です。
 
 ## Interests
 
-* Developer productivity
+* 開発環境の再現性
 * dotfiles / config management
 * AI-assisted development
-* AI agent workflow
+* AIエージェント設定
 * CLI tools
-* Knowledge management
-* Custom keyboards
+* ナレッジ管理
+* 自作キーボード
 
-## Next
+☕ Support
 
-* 
+`dotfiles-bridge` は初めて公開したOSSです。
+役に立った、参考になった、今後も見てみたいと思ったら、Star や Issue、Buy Me a Coffee で応援してもらえると嬉しいです。
 
-## ☕ Buy me a coffee
-
-If `dotfiles-bridge` or my notes helped you, a coffee would be appreciated.
-It helps me keep building OSS tools after work.
+支援は、開発継続・検証環境・ドキュメント整備・仕事後のOSS開発の燃料になります。
